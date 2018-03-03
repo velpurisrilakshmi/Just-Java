@@ -1,6 +1,8 @@
 # Just-Java
-1)Making an app interactive. 
-2)Building layouts 
+1)Making an app interactive.
+ 
+2)Building layouts
+ 
   >selecting the views. 
   >positioning the views. 
   >styling the views. 
